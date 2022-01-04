@@ -1,3 +1,4 @@
+import '../styles/header.css'
 import HeaderLeftMenu from "./HeaderLeftMenu";
 import HeaderSearch from "./HeaderSearch";
 

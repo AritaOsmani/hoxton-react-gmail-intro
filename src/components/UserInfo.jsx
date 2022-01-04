@@ -1,3 +1,4 @@
+import '../styles/UserInfo.css'
 function UserInfo() {
     return (
         <div className="user-info">

@@ -1,3 +1,4 @@
+import '../styles/EmailArticleTitle.css'
 function EmailArticleTitle() {
     return (
         <div className="title">

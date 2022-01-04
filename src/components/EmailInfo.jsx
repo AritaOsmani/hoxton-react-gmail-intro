@@ -1,3 +1,4 @@
+import '../styles/EmailInfo.css'
 import SenderInfo from "./SenderInfo"
 import UserInfo from "./UserInfo"
 

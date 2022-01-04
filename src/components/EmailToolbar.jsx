@@ -1,3 +1,5 @@
+import '../styles/EmailToolbar.css'
+
 import PageSection from "./PageSection"
 import Space from "./Space"
 import ToolbarList from "./ToolbarList"

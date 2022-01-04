@@ -1,3 +1,4 @@
+import '../styles/EmailContentHeader.css'
 
 import Avatar from './Avatar'
 import DateInfo from './DateInfo'

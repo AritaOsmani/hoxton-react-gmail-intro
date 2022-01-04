@@ -1,3 +1,4 @@
+import '../styles/EmailBody.css'
 import EmailBodyContent from "./EmailBodyContent"
 
 function EmailBody() {
